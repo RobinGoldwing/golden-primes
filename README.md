@@ -1,0 +1,2 @@
+# golden-primes
+Primes generator
