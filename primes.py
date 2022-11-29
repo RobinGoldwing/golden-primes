@@ -21,7 +21,7 @@ def prime():
         
         
 for primo in prime():
-    print(primo)
+    print(primo, flush=True)
 
 # maximo = int(input("Introduce el número máximo hasta el que buscar primos :"))
 # for j in range (1,maximo):
